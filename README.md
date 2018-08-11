@@ -25,5 +25,5 @@
   * 首先将 C:\opencv\build\x64\vc12\bin 下面的 dll 文件全部复制到 C:\Windows\System32 下面
   * 使用一个小工具 depends 打开 \node_modules\_opencv@6.0.0@opencv\build\opencv\v6.0.0\Release\node-v57-win32-x64\opencv.node 二进制文件，它会显示该文件缺少哪些 dll 文件，请自行下载，放入 C:\Windows\System32 下面
   
-如何使用请参阅 https://github.com/peterbraden/node-opencv
+如何使用请参阅 https://github.com/peterbraden/node-opencv <br/>
 示例请参阅 http://www.liuhongyi.net/content/1.html
